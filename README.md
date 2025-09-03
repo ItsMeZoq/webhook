@@ -4,9 +4,9 @@
 
 ```bash
 
-git clone <url_repo>
+git clone https://github.com/ItsMeZoq/webhook
 
-cd <folder gdzie masz program>
+cd webhook
 
 python -m venv venv
 venv\Scripts\activate
