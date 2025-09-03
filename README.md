@@ -4,7 +4,7 @@
 
 ```bash
 
-git clone https://github.com/ItsMeZoq/webhook
+git clone https://github.com/ItsMeZoq/webhook.git
 
 cd webhook
 
@@ -14,3 +14,4 @@ pip install -r requirments.txt
 python
 from app import send_msg
 send_msg("message")
+
